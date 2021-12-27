@@ -6,14 +6,14 @@
 
 ## Doge Ranger | Information
 
-* [Doge Ranger - Tokenomic](doge-ranger-or-information/doge-ranger-tokenomic.md)
-* [Doge Ranger - Token Distribute](doge-ranger-or-information/doge-ranger-token-distribute.md)
-* [Doge Ranger - Roadmap](doge-ranger-or-information/doge-ranger-roadmap.md)
-* [Doge Ranger - Core Team](doge-ranger-or-information/doge-ranger-core-team.md)
+* [📄 Doge Ranger - Tokenomic](doge-ranger-or-information/doge-ranger-tokenomic.md)
+* [⚪ Doge Ranger - Token Distribute](doge-ranger-or-information/doge-ranger-token-distribute.md)
+* [📍 Doge Ranger - Roadmap](doge-ranger-or-information/doge-ranger-roadmap.md)
+* [🏆 Doge Ranger - Core Team](doge-ranger-or-information/doge-ranger-core-team.md)
 
 ## DOGE RANGER | SOCIAL MEDIA
 
-* [Contact Us](doge-ranger-or-social-media/contact-us/README.md)
+* [☎ Contact Us](doge-ranger-or-social-media/contact-us/README.md)
   * [1 Website](https://dogeranger.com)
   * [2 Twitter](https://twitter.com/DogerangerNFT)
   * [3 Facebook](https://www.facebook.com/Doge-Ranger)
