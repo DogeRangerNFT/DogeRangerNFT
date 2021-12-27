@@ -9,7 +9,7 @@
 * [Tokenomic](doge-ranger-or-information/tokenomic.md)
 * [Token Distribute](doge-ranger-or-information/token-distribute.md)
 * [Roadmap](doge-ranger-or-information/roadmap.md)
-* [Doge Ranger - Core Team](doge-ranger-or-information/doge-ranger-core-team.md)
+* [Ranger Dev Team](doge-ranger-or-information/ranger-dev-team.md)
 
 ## DOGE RANGER | SOCIAL MEDIA
 
