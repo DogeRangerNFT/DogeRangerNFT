@@ -1,4 +1,4 @@
-# Doge Ranger - Tokenomic
+# 📝 Tokenomic
 
 * TOKEN NAME: Doge Ranger
 * TOKEN SYMBOL: DOGERANGER

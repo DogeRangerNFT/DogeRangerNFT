@@ -1,2 +1,2 @@
-# Doge Ranger - Token Distribute
+# 💡 Token Distribute
 

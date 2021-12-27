@@ -4,14 +4,14 @@
 
 * [🐶 DOGE RANGER](README.md)
 * [🏝 The Dogeland](doge-ranger-or-whitepaper/the-dogeland.md)
-* [🪙 What is DOGERANGER ?](doge-ranger-or-whitepaper/what-is-dogeranger.md)
 
 ## Doge Ranger | Information
 
-* [Tokenomic](doge-ranger-or-information/tokenomic.md)
-* [Token Distribute](doge-ranger-or-information/token-distribute.md)
-* [Roadmap](doge-ranger-or-information/roadmap.md)
-* [Ranger Team](doge-ranger-or-information/ranger-team.md)
+* [🪙 What is DOGERANGER ?](doge-ranger-or-information/what-is-dogeranger.md)
+* [📝 Tokenomic](doge-ranger-or-information/tokenomic.md)
+* [💡 Token Distribute](doge-ranger-or-information/token-distribute.md)
+* [📍 Roadmap](doge-ranger-or-information/roadmap.md)
+* [🏆 Ranger Team](doge-ranger-or-information/ranger-team.md)
 
 ## DOGE RANGER | SOCIAL MEDIA
 
