@@ -1,0 +1,7 @@
+# Doge Ranger - Tokenomic
+
+* TOKEN NAME: Doge Ranger
+* TOKEN SYMBOL: DOGERANGER
+* TOKEN DECIMAL: 9
+* TOTAL SUPPLY: 100,000,000,000
+
