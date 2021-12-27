@@ -1,6 +1,4 @@
----
-description: Official DOGE RANGER Whitepaper, last updated day, month, 2022
----
+
 
 # 🐶 DOGE RANGER
 
