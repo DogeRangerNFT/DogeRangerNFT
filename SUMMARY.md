@@ -1,8 +1,10 @@
 # Table of contents
 
+## DOGE RANGER | WHITEPAPER
+
 * [🐶 DOGE RANGER](README.md)
-* [🏝 The Dogeland](the-dogeland.md)
-* [🪙 What is DOGERANGER ?](what-is-dogeranger.md)
+* [🏝 The Dogeland](doge-ranger-or-whitepaper/the-dogeland.md)
+* [🪙 What is DOGERANGER ?](doge-ranger-or-whitepaper/what-is-dogeranger.md)
 
 ## Doge Ranger | Information
 
