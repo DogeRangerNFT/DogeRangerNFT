@@ -1,2 +1,0 @@
-# Doge Ranger - Core Team
-
