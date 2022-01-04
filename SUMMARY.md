@@ -3,7 +3,6 @@
 ## DOGE RANGER | WHITEPAPER
 
 * [🐶 DOGE RANGER](README.md)
-* [🏝 The Dogeland](doge-ranger-or-whitepaper/the-dogeland.md)
 
 ## Doge Ranger | Information
 
