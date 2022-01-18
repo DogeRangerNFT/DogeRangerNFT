@@ -11,7 +11,8 @@ In such a rapidly growing world as the blockchain game market, any plan can soon
 | Alpha Test NFT Game          | NFT Card development           | Marketing/social media campaign |
 | Beta Test NFT Game           | CoinGecko listing              | Investors                       |
 | Launch NFT Game              | CoinMarketCap listing          | Partnership                     |
-| 8,000 holders                | 20,000 holders                 | 100,000 holders                 |
-| Airdrop Campaign #1          | KYC / Audit                    |                                 |
+| Marketplace NFT Card         | 20,000 holders                 | 100,000 holders                 |
+| 8,000 holders                | KYC / Audit                    |                                 |
+| Airdrop Campaign #1          |                                |                                 |
 |                              |                                |                                 |
 |                              |                                |                                 |
