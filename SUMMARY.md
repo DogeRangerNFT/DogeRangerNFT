@@ -1,8 +1,17 @@
 # Table of contents
 
-## DOGE RANGER | WHITEPAPER
+## DOGE RANGER
 
 * [🐶 DOGE RANGER](README.md)
+
+## DOGE RANGER - CHARACTER
+
+* [🔴 Red Mighty - Doge Ranger](doge-ranger-character/red-mighty-doge-ranger.md)
+* [🟡 Yellow Mighty - Doge Ranger](doge-ranger-character/yellow-mighty-doge-ranger.md)
+* [🔵 Blue Mighty - Doge Ranger](doge-ranger-character/blue-mighty-doge-ranger.md)
+* [🟣 Pink Mighty - Doge Ranger](doge-ranger-character/pink-mighty-doge-ranger.md)
+* [⚫ Black Mighty - Doge Ranger](doge-ranger-character/black-mighty-doge-ranger.md)
+* [🟢 Green Mighty - Doge Ranger](doge-ranger-character/green-mighty-doge-ranger.md)
 
 ## Doge Ranger | Information
 
