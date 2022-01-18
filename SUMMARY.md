@@ -15,7 +15,6 @@
 
 ## Doge Ranger | Information
 
-* [🪙 What is DOGERANGER ?](doge-ranger-or-information/what-is-dogeranger.md)
 * [📝 Tokenomic](doge-ranger-or-information/tokenomic.md)
 * [💡 Token Distribute](doge-ranger-or-information/token-distribute.md)
 * [📍 Roadmap](doge-ranger-or-information/roadmap.md)
