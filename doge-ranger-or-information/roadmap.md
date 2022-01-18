@@ -2,6 +2,8 @@
 
 In such a rapidly growing world as the blockchain game market, any plan can soon be obsolete so we only list the features we intend to implement for the purpose of getting more views easily.
 
+## DOGERANGER - ROADMAP OF 2022
+
 | Phase 1 \| Q1 (JAN-MAR) 2022 | Phase 2 \| Q2 (ARPIL-JUN) 2022 | Phase 3 \| Q3 (JULY-SEP) 2022   |
 | ---------------------------- | ------------------------------ | ------------------------------- |
 | Introduce DogeRanger         | Launch NFT Game                | Launching game on Android       |
