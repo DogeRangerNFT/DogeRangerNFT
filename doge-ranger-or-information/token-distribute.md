@@ -1,5 +1,7 @@
 # 💡 Token Distribute
 
+![](../.gitbook/assets/token.PNG)
+
 |                | PERCENTAGE | DOGERANGER SUPPLY | RELEASE SCHEDULE              |   |
 | -------------- | ---------- | ----------------- | ----------------------------- | - |
 | DOGERANGER NFT | 20%        | 20,000,000,000    | LOCKED 1 YEAR                 |   |
